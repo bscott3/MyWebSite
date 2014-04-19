@@ -1,0 +1,56 @@
+<html>
+<head>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <nav class="navbar navbar-default" role="navigation">
+  <div class="navbar-header">
+    <a class="navbar-brand" href="#">Scotts Game/Web/App Development</a>
+    <a class="navbar-brand" href="/"><span class="glyphicon glyphicon-home"></span></a>
+  </div>
+    </nav>
+    </div>
+	<h1>Cincinati Reds</h1>
+<div id="redsNews">
+<h3>What are people saying about the Reds?</h3>
+<a class="twitter-timeline" href="https://twitter.com/search?q=%23GoReds" data-widget-id="456248583356813312">Tweets about "#GoReds"</a>
+<br> 
+<h3>Reds RSS News Feed</h3>
+<ul class="list-group" id="newsItems"></ul>
+</div>
+</div>
+</body>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+<script type="text/javascript">
+$(document).ready(function () {
+function parseRSS(url, callback) {
+  $.ajax({
+    url: document.location.protocol + '//ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=10&callback=?&q=' + encodeURIComponent(url),
+    dataType: 'json',
+    success: function(data) {
+      callback(data.responseData.feed);
+    }
+  });
+}
+var callback = function(e){
+console.log(e);
+for(item in e.entries){
+$("#newsItems").append("<li class='list-group-item'><a href='"+e.entries[item].link+"'>"+e.entries[item].title+"</a><p class='list-group-item-text'>"+e.entries[item].content+"</p></li>");
+}
+}
+var response = parseRSS('http://partner.mlb.com/partnerxml/gen/news/rss/cin.xml',callback);
+});
+</script>

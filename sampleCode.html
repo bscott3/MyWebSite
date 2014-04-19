@@ -1,0 +1,96 @@
+<html>
+<head>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+    <div class="row">
+        <nav class="navbar navbar-default" role="navigation">
+  <div class="navbar-header">
+    <a class="navbar-brand" href="#">Scotts Game/Web/App Development</a>
+    <a class="navbar-brand" href="/"><span class="glyphicon glyphicon-home"></span></a>
+  </div>
+    </nav>
+    </div>
+	<h3>Unity Java Player Health</h3>
+	<hr>
+	<pre>
+private var MaxHealth:int = 20;<br>
+static var Health:int = 0; //modify this var from other scripts<br>
+private var previousHealth:int = Health;<br>
+static var RespawnPoint:GameObject;<br>
+static var guiDepth : int = 0;<br>
+
+function Start () {<br>
+	Health = MaxHealth;<br>
+}<br>
+
+function Update () {<br>
+	if(Health == MaxHealth){<br>
+		Health = 20;<br>
+	}<br>
+	if (Health != previousHealth)<br>
+	{<br>
+		if (Health <= 0) {<br>
+			Health = 0;<br>
+			DieAndRespawn();<br>
+		}<br>
+		else if (Health > MaxHealth) {<br>
+			Health = MaxHealth;<br>
+		}<br>
+		<br>
+		transform.parent.guiText.text = Health.ToString();<br>
+		var newString:String = "";<br>
+		
+		for (var i:int = 0; i < Health; i++) {<br>
+			newString += "I";<br>
+		}<br>
+	<br>	
+		guiText.text = newString;<br>
+		previousHealth = Health;<br>
+	}<br>
+}<br>
+static function SetRespawnPoint(t:GameObject) {<br>
+	if (RespawnPoint != null)<br>
+		RespawnPoint.collider.enabled = true;<br>
+	RespawnPoint = t;<br>
+}<br>
+
+function DieAndRespawn () {<br>
+	print("You Died!");<br>
+	//death animation and timer for respawn ?<br>
+	if (RespawnPoint != null) {<br>
+		var player:GameObject = GameObject.FindWithTag("Player");<br>
+		player.transform.position = RespawnPoint.transform.position;<br>
+		//print (player.transform.rotation.y);<br>
+		//print (player.transform.localRotation.y);<br>
+		<br>
+		//WORKS<br>
+		player.transform.eulerAngles.y = RespawnPoint.transform.eulerAngles.y;<br>
+		<br>
+		//print(player.transform.rotation.y);<br>
+		<br>
+		//DOES NOT WORK<br>
+		var cam:GameObject = GameObject.FindWithTag("MainCamera");<br>
+		cam.transform.eulerAngles.x = 0;<br>
+		<br>
+		<br>
+		Health = MaxHealth;<br>
+	}<br>
+	else {<br>
+		//dead with no respawn<br>
+	}<br>
+}<br>
+<br>
+</pre>
+</div
+</body>
