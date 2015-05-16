@@ -2,16 +2,188 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05f0410e-271c-412c-9bab-4a89e28e9332" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\.idea\MyWebSite.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\.idea\deployment.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\.idea\scopes\scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular-ui-router\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular-ui-router\CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular-ui-router\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular-ui-router\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular-ui-router\api\angular-ui-router.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular-ui-router\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular-ui-router\src\common.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular-ui-router\src\resolve.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular-ui-router\src\state.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular-ui-router\src\stateDirectives.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular-ui-router\src\stateFilters.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular-ui-router\src\templateFactory.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular-ui-router\src\urlMatcherFactory.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular-ui-router\src\urlRouter.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular-ui-router\src\view.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular-ui-router\src\viewDirective.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular-ui-router\src\viewScroll.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular\angular-csp.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular\angular.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular\angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular\angular.min.js.gzip" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular\angular.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\angular\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\grunt\bs-glyphicons-data-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\grunt\bs-lessdoc-parser.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\grunt\bs-raw-files-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\grunt\sauce_browsers.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\js\affix.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\js\alert.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\js\button.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\js\carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\js\collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\js\dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\js\modal.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\js\popover.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\js\scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\js\tab.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\js\tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\js\transition.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\badges.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\breadcrumbs.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\button-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\carousel.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\close.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\code.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\component-animations.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\dropdowns.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\forms.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\glyphicons.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\grid.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\input-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\jumbotron.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\labels.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\media.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\background-variant.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\border-radius.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\center-block.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\clearfix.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\forms.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\gradients.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\grid-framework.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\grid.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\hide-text.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\image.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\labels.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\nav-divider.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\nav-vertical-align.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\opacity.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\panels.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\progress-bar.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\reset-filter.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\resize.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\responsive-visibility.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\size.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\tab-focus.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\table-row.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\text-emphasis.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\text-overflow.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\mixins\vendor-prefixes.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\modals.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\navbar.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\navs.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\normalize.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\pager.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\panels.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\popovers.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\print.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\progress-bars.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\responsive-embed.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\responsive-utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\scaffolding.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\tables.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\theme.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\thumbnails.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\tooltip.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\type.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\variables.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\less\wells.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\bootstrap\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\MIT-LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\ajax\jsonp.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\ajax\load.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\ajax\parseJSON.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\ajax\parseXML.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\ajax\script.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\ajax\xhr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\attributes\attr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\attributes\classes.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\attributes\prop.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\attributes\support.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\attributes\val.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\callbacks.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\core\access.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\core\init.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\core\parseHTML.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\core\ready.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\css.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\css\addGetHookIf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\css\curCSS.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\css\defaultDisplay.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\css\hiddenVisibleSelectors.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\css\support.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\css\swap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\data.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\data\Data.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\data\accepts.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\deferred.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\deprecated.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\dimensions.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\effects.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\effects\Tween.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\effects\animatedSelector.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\event.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\event\alias.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\event\support.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\exports\amd.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\exports\global.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\intro.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\manipulation.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\manipulation\_evalUrl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\manipulation\support.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\offset.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\outro.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\queue.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\queue\delay.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\selector-native.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\selector-sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\selector.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\serialize.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\traversing.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\traversing\findFilter.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\bscott3\Desktop\MyWebSite\bower_components\jquery\src\wrap.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MyWebSite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -89,8 +261,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6971047" vertical-offset="3342" max-vertical-offset="3791">
-              <caret line="215" column="5" selection-start-line="215" selection-start-column="5" selection-end-line="215" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.44766146" vertical-offset="3080" max-vertical-offset="3757">
+              <caret line="193" column="10" selection-start-line="193" selection-start-column="10" selection-end-line="193" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -451,7 +623,11 @@
       <created>1431790591186</created>
       <updated>1431790591186</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="removed .idea files from vcs">
+      <created>1431790791733</created>
+      <updated>1431790791733</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -479,18 +655,18 @@
     <editor active="false" />
     <layout>
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13825503" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.020895522" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28084832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28084832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -544,7 +720,9 @@
     <MESSAGE value="separated controllers to their own js jfile" />
     <MESSAGE value="added meta description tag" />
     <MESSAGE value="made changes to organize the home screen, also hooked up the example Movie API  form to the endpoint. Added basic form validtion to the example form." />
-    <option name="LAST_COMMIT_MESSAGE" value="made changes to organize the home screen, also hooked up the example Movie API  form to the endpoint. Added basic form validtion to the example form." />
+    <MESSAGE value="removed .idea files from vcs" />
+    <MESSAGE value="removed bower components" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed bower components" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -962,8 +1140,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6971047" vertical-offset="3342" max-vertical-offset="3791">
-          <caret line="215" column="5" selection-start-line="215" selection-start-column="5" selection-end-line="215" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.44766146" vertical-offset="3080" max-vertical-offset="3757">
+          <caret line="193" column="10" selection-start-line="193" selection-start-column="10" selection-end-line="193" selection-end-column="10" />
           <folding />
         </state>
       </provider>
