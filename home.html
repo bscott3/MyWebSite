@@ -1,0 +1,26 @@
+<h2>{{clock.now}} This clock brought to you by <img src="/pictures/Angular_Banner.jpg"></h2>
+
+<div class="jumbotron">
+        <h4>Sometimes when I'm talking, my words can't keep up with my thoughts. I wonder why we think faster than we speak. Probably so we can think twice.
+            ― Bill Watterson</h4>
+        <p><a class="btn btn-primary btn-lg btn-block" role="button" href="http://en.wikipedia.org/wiki/Calvin_and_Hobbes">Learn more about Bill Watterson</a></p>
+</div>
+        <h3>Movie API</h3>
+        <h4>Created using google app engine endpoints</h4>
+        <ul class="list-group list-group-item" ng-repeat="method in MovieApiMethods">
+            <li class="list-group-item">{{method.api_path}}</li>
+        </ul>
+<form ng-submit="addMovie()">
+    <label class="form-label">Movie Title</label>
+    <input class="form-control"  type="text" ng-model="m_title">
+    <label class="form-label">Main Character</label>
+    <input class="form-control" type="text" ng-model="main_char">
+    <label class="form-label">Genre</label>
+    <input class="form-control" type="text" ng-model="genre">
+    <input class="btn" type="submit" value="Save">
+</form>
+      <ul class="list-group">
+        <li class="list-group-item" ng-repeat="movie in favoriteMovies">
+          <span>{{movie.title}}</span>
+        </li>
+      </ul>

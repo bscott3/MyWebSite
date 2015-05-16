@@ -36,3 +36,40 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', end
   padding:5px;
   border-bottom:1px #999999;
   }
+  #GoREDS{
+font-size: 24;
+width:100px;
+height:100px;
+background:red;
+position:relative;
+/* Chrome, Safari, Opera */
+-webkit-animation-name:myfirst;
+-webkit-animation-duration:5s;
+-webkit-animation-timing-function:linear;
+-webkit-animation-delay:2s;
+-webkit-animation-iteration-count:infinite;
+-webkit-animation-direction:alternate;
+-webkit-animation-play-state:running;
+/* Standard syntax */
+animation-name:myfirst;
+animation-duration:5s;
+animation-timing-function:linear;
+animation-delay:2s;
+animation-iteration-count:infinite;
+animation-direction:alternate;
+animation-play-state:running;
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes myfirst
+{
+0%   {background:red; left:0px; top:0px;color:white;}
+100%  {background:white; left:200px; top:0px;color:red}
+}
+
+/* Standard syntax */
+@keyframes myfirst
+{
+0%   {background:red; left:0px; top:0px;color: white;}
+100%  {background:white; left:200px; top:0px; color:red;}
+}
